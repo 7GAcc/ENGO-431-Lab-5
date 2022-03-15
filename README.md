@@ -1,1 +1,2 @@
 # ENGO-431-Lab-5
+This project contains the output of a single photo resection (the program that computed these values was implemented by one of my partners by the performing resection on two orthometric photos independently). The output from the single photo resection as well as output files from previous labs (all in the folder) were used in my program to compute the space intersection. The output text files begin with "out". Since the resection was done by my partner, I will not be including the program here.
